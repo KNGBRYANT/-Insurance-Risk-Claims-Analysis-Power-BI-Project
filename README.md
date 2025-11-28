@@ -13,8 +13,7 @@ Leveraging **Power BI Desktop**, the project delivers an interactive, user-frien
 - Identify potential fraud  
 - Refine customer targeting strategies  
 
-💡 Explore the dashboard screenshots, PBIX file, and exported reports here ➜ **[Dashboard Folder](#)**  
-*(Replace `#` with your GitHub folder link)*  
+💡 Explore the dashboard here ➜ **[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmE1OWM5NTctMzVhNS00MzQ5LThhODQtMGE4ZWRmY2M3NDBiIiwidCI6IjU3ODlhOGIxLWFjN2MtNDMxZS05YTQyLWJlOTk0NTNjNWIzMCJ9)**  
 
 The dashboard is fully interactive, featuring slicers, filters, and drill-through capabilities — allowing users to slice data by demographics (e.g., gender, age), vehicle details (e.g., make, use), and geographic zones in real time.
 
